@@ -15,11 +15,11 @@ public class test5_04 {
 			System.out.println("다르다");
 		
 		//문자열 비교 ... 중요, 문자ㅏ 비교 할 때는 equals를 사용
-		if(str1.equals(str2)){
-			System.out.println("두 문자열 내용이 같다");
-		}else {
-			System.out.println("두 문자열 내용이 다르다");
-		}
+//		if(str1.equals(str2)){
+//			System.out.println("두 문자열 내용이 같다");
+//		}else {
+//			System.out.println("두 문자열 내용이 다르다");
+//		}
 	}
 
 }

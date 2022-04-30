@@ -10,7 +10,6 @@ public class test5_14 {
 		//중앙값은 정렬해서 가운데 값을 구하면됨.
 		//정렬
 		for(int x = 0; x < scores.length-1; x++) {
-			
 			for(int y = x+1 ; y < scores.length; y++) {
 				if(scores[x] > scores[y]) {
 					int temp = scores[x];
